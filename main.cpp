@@ -71,7 +71,7 @@ void displayMainMenu() {
     cout << "4. Edit employee information" << endl;
     cout << "5. Delete employee" << endl;
     cout << "6. Exit" << endl; 
-    cout << "\nEnter your choice: ";
+    cout << "\nEnter the number of your choice: ";
 }
 
 // Function to add a new employee
