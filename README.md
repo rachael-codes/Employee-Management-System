@@ -15,12 +15,13 @@ The Employee Management System is a simple console-based program written in C++ 
 2. Git (optional, for cloning the repository)
 
 ## How to Run the Program
+
+### For users with Git (Running the .cpp File)
+
 1. **Clone the Repository:**
    ```bash
     git clone https://github.com/your-username/employee-management-system.git
    
-  *If you don't have Git, you can download the repository as a ZIP file and extract it.*
-
 2. **Navigate to the Directory:**
    ```bash
      cd employee-management-system
@@ -31,6 +32,19 @@ The Employee Management System is a simple console-based program written in C++ 
    ```bash
      g++ main.cpp -o employee_management_system
    ```
+
+### For Users without Git (Running the `main.exe` Application):
+
+1. **Download and Extract the ZIP File:**
+   - Download the ZIP file of the repository.
+   - Extract the contents of the ZIP file to a location on your computer.
+
+2. **Navigate to the Extracted Folder:**
+   - Open the extracted folder (`employee-management-system`) where you have the `main.exe` file.
+
+3. **Run the Executable:**
+   - Double-click on the `main.exe` file.
+   - This will execute your program and display the output in a console window.
 
 ## Usage Instructions
 1. Follow the on-screen instructions to navigate the program's menu and select the desired options.
