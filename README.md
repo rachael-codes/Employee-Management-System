@@ -16,11 +16,11 @@ The Employee Management System is a simple console-based program written in C++ 
 
 ## How to Run the Program
 
-### For users with Git (Running the .cpp File)
+### For users with Git (Running the `.cpp`File)
 
 1. **Clone the Repository:**
    ```bash
-    git clone https://github.com/your-username/employee-management-system.git
+    https://github.com/rachael-codes/Employee-Management-System.git
    
 2. **Navigate to the Directory:**
    ```bash
