@@ -10,14 +10,26 @@ The Employee Management System is a simple console-based program written in C++ 
 5. **Delete Employee:** Allows the user to delete an existing employee from the system based on their ID.
 6. **Exit:** Exits the program.
 
+## Prerequisites
+1. C++ compiler (e.g., g++)
+2. Git (optional, for cloning the repository)
+
 ## How to Run the Program
-1. **Compile the Program:** Use a C++ compiler to compile the main.cpp file. For example, using g++:
+1. **Clone the Repository:**
+   ```bash
+    git clone https://github.com/your-username/employee-management-system.git
+   
+  *If you don't have Git, you can download the repository as a ZIP file and extract it.*
+
+2. **Navigate to the Directory:**
+   ```bash
+     cd employee-management-system
+   ```
+*Make sure to replace g++ with your C++ compiler if different.*
+
+3. **Compile the Program:**
    ```bash
      g++ main.cpp -o employee_management_system
-   ```
-2. **Run the Program:** Execute the compiled executable:
-   ```bash
-     ./employee_management_system
    ```
 
 ## Usage Instructions
